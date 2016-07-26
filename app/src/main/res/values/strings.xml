@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GDOULib</string>
+    <string name="action_about">about</string>
+    <string name="cat_hot_lend">HotLend</string>
+    <string name="version">version：1.1</string>
+    <string name="query_hint">Search~</string>
+    <string name="reminder_loading_now">loading…</string>
+    <string name="about_author">©developed by @fedming</string>
+    <string name="cat_their_search">Their search</string>
+    <string name="title_activity_book_detail">BookDetail</string>
+    <string name="title_activity_search_result">BookSearchResult</string>
+</resources>
