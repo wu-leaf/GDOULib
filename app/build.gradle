@@ -28,10 +28,10 @@ android {
         }
 		//此处自定义release信息，打包apk
         release {
-            storeFile file("")
-            storePassword ""
-            keyAlias ""
-            keyPassword ""
+            storeFile file("D:/gdoulib.jks")
+            storePassword "123456"
+            keyAlias "mygdoulib"
+            keyPassword "123456"
         }
     }
 

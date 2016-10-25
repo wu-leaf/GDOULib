@@ -26,6 +26,9 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 查找结果返回页
+ */
 public class SearchResultActivity extends AppCompatActivity {
 
     private String query_str;

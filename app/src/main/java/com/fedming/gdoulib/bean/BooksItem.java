@@ -1,5 +1,8 @@
 package com.fedming.gdoulib.bean;
 
+/**
+ *  搜索结果展示的图书Item
+ */
 public class BooksItem {
 
 	private int id;

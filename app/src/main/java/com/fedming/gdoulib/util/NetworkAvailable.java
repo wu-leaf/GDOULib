@@ -7,7 +7,7 @@ import android.net.NetworkInfo;
 
 /**
  *
- * Created by Bruce on 2016/3/27.
+ * 网络监测
  */
 public final class NetworkAvailable {
     public static boolean isOnline(Context context) {

@@ -12,7 +12,9 @@ import org.jsoup.select.Elements;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * 搜索结果返回的item业务逻辑
+ */
 public class BooksItemBiz {
 
 	public List<BooksItem> getBooksItem(String urlStr) throws CommonException {

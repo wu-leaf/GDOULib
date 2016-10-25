@@ -20,7 +20,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
-
+/*
+ * 图书详情页
+ */
 public class BookDetailActivity extends AppCompatActivity {
 
     private Document doc = null;

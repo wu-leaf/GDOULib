@@ -1,5 +1,9 @@
 package com.fedming.gdoulib.bean;
 
+/**
+ * 装载在主页面的图书item业务逻辑
+ */
+
 public class HomeItem {
 
 	private int id;

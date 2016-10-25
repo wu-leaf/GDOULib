@@ -29,6 +29,10 @@ import java.util.List;
 
 import static com.umeng.update.UpdateConfig.setDeltaUpdate;
 
+/**
+ * 主界面：提供搜索框，聊天搜索热点，若干条“他们都在搜”
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private SearchView searchView;

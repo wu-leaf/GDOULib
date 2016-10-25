@@ -1,5 +1,8 @@
 package com.fedming.gdoulib.util;
 
+/**
+ * 定义常量
+ */
 public interface Constaint {
 
     public static final String HOMEITEMURL = "http://210.38.138.7:8080/sms/opac/search/showSearch.action?xc=6";
